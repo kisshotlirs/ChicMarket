@@ -1,4 +1,4 @@
-package com.mojo.oauth2.model.repo;
+package com.mojo.oauth2.repo;
 
 import com.mojo.oauth2.model.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;

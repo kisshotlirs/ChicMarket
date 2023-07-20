@@ -1,6 +1,6 @@
-package com.mojo.oauth2.model.config;
+package com.mojo.oauth2.config;
 
-import com.mojo.oauth2.model.service.UserService;
+import com.mojo.oauth2.service.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;

@@ -1,7 +1,7 @@
-package com.mojo.oauth2.model.service;
+package com.mojo.oauth2.service;
 
 import com.mojo.oauth2.model.entity.User;
-import com.mojo.oauth2.model.repo.UserRepository;
+import com.mojo.oauth2.repo.UserRepository;
 import org.springframework.security.core.authority.AuthorityUtils;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
