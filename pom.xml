@@ -18,6 +18,7 @@
     <modules>
         <module>gateway</module>
         <module>oauth2</module>
+        <module>user-service</module>
     </modules>
 
     <dependencies>

@@ -1,13 +1,13 @@
-package com.mojo.code;
+package com.mojo.userservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CodeApplicationTests {
+class UserServiceApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
